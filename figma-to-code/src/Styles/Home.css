@@ -1,0 +1,759 @@
+
+.cont {
+    width:auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbarc {
+    display: flex;
+    gap: 100px;
+}
+
+.navbarl {
+    margin-top: 16px;
+    margin-left: 12px;
+}
+
+.hamb {
+    width: 37px;
+    height: 5px;
+    background-color: #093891;
+    margin: 6px 25px;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ftxt {
+    font-family: "Gothic A1", sans-serif;
+    height: 23px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-align: left;
+}
+
+.social {
+    display: flex;
+    gap: 30px;
+    position: absolute;
+    top: 120px;
+    right: 30px;
+}
+
+.socialicon {
+    width: 27.7px;
+    height: 27.7px;
+}
+
+.enquirybar {
+    color: #FFFFFF;
+    background-color: #093891;
+    width: 331px;
+    height: 165px;
+    border-radius: 10px;
+    opacity: 90%;
+    position: absolute;
+    top: 446px;
+    right: 8px;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+
+.tx {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.txno {
+    font-size: 17px;
+    font-weight: 300;
+
+    text-align: left;
+
+}
+
+.btn0 {
+    background-color: #95C11E;
+    height: 43px;
+    width: 146px;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+
+.divline {
+    background: linear-gradient(270deg, #95C11E 1.56%, #093891 100%);
+    height: 4px;
+    border-radius: 10px;
+}
+
+.background1 {
+    height: 516px;
+    width: 100%;
+}
+
+.welcomediv {
+    text-align: center;
+    background: #95C11E;
+    height: 249px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px;
+}
+
+.welcomed {
+    font-family: "Libre Baskerville", serif;
+    color: #093891;
+    width: 197px;
+    margin: 0px auto;
+    height: 50px;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 50px;
+
+}
+
+.loremd {
+    font-family: "Gothic A1", sans-serif;
+    color: #FFFFFF;
+    width: 1069px;
+    margin: auto;
+    height: 62px;
+    padding: 30px 188px;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 31.25px;
+    text-align: center;
+}
+
+.divlr {
+    display: flex;
+}
+
+.divl {
+    width: 50%;
+    margin: 50px 30px;
+}
+
+.divr {
+    width: 50%;
+}
+
+.p1 {
+    font-family: "Libre Baskerville", serif;
+    width: 687px;
+    height: 135px;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 55px;
+    text-align: left;
+}
+
+.p1in{
+    font-family: "Libre Baskerville", serif;
+    width: 687px;
+    height: 135px;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: left;
+    color:#95C11E;
+}
+.p2 {
+    font-family: "Gothic A1", sans-serif;
+    width: 626px;
+    height: 138px;
+    font-family: Gothic A1;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 22.5px;
+    text-align: left;
+}
+
+.btn1 {
+    font-family: "Inter", sans-serif;
+    width: 196px;
+    height: 59px;
+    margin: 50px 0px;
+    border-radius: 10px;
+    border: 3px solid #95C11E;
+    color: #95C11E;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-align: center;
+}
+
+.divp1 {
+    border: 3px solid #95C11E;
+    width: 422px;
+    height: 317px;
+    border-radius: 10px;
+    position: relative;
+    top: 130px;
+}
+
+.divp2 {
+    border: 2px solid #093891;
+    ;
+    width: 375px;
+    height: 308px;
+    border-radius: 10px;
+    position: relative;
+    top: -30px;
+    left: 240px;
+}
+
+.pic7 {
+    width: 389px;
+    height: 320px;
+    border-radius: 10px;
+    position: absolute;
+    top: 995px;
+    right: 315px;
+}
+
+.pic6 {
+    width: 375px;
+    height: 308px;
+    border-radius: 10px;
+    position: absolute;
+    top: 1160px;
+    right: 130px;
+}
+
+.dtxt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.divline1 {
+    background-color: #95C11E;
+    width: 85px;
+    height: 0px;
+    border: 3px solid #95C11E;
+    border-radius: 3px;
+}
+
+.dtxt1 {
+    font-family: "Libre Baskerville", serif;
+    width: 273px;
+    height: 45px;
+    font-size: 45px;
+    font-weight: 200;
+    line-height: 45px;
+    text-align: center;
+    color: #093891;
+}
+
+.dsymbols {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dp1 {
+    background-color: #95C11E;
+    height: 201px;
+    width: 201px;
+    border-radius: 50%;
+}
+
+.dp2 {
+    background-color: #093891;
+    height: 201px;
+    width: 201px;
+    border-radius: 50%;
+}
+
+.symb1 {
+    position: relative;
+    top: 60px;
+    left: 60px;
+}
+
+.symb2 {
+    position: relative;
+    top: 55px;
+    left: 70px;
+}
+
+.dsymbolstxt1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dst1 {
+    font-family: "Gothic A1", sans-serif;
+    width: 191px;
+    height: 62px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 31.25px;
+    text-align: center;
+}
+
+.dsymbolstxt2 {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 70px;
+}
+
+.dst2 {
+    font-family: "Inter", sans-serif;
+    width: 80px;
+    height: 48px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.41px;
+    text-align: center;
+}
+
+.bimg {
+    margin-top: 70px;
+}
+
+.imgs4 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dimgs4 {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.75px;
+    width: 246px;
+    text-align: center;
+}
+
+.dtxt2 {
+    margin: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.divline2 {
+    background-color: #95C11E;
+    width: 85px;
+    height: 0px;
+    border: 3px solid #95C11E;
+    border-radius: 3px;
+}
+
+.dtxt22 {
+    font-family: "Libre Baskerville", serif;
+    height: 45px;
+    font-size: 45px;
+    font-weight: 200;
+    line-height: 45px;
+    text-align: center;
+    color: #093891;
+}
+
+.pic1-4 {
+    position: absolute;
+    top: 2130px;
+    width: 100%;
+}
+
+.dtxt3 {
+    margin: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.divline3 {
+    background-color: #95C11E;
+    width: 85px;
+    height: 0px;
+    border: 3px solid #95C11E;
+    border-radius: 3px;
+}
+
+.dtxt33 {
+    font-family: "Libre Baskerville", serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: center;
+    color: #093891;
+}
+
+.divnoi {
+    width: 49%;
+}
+
+.dip {
+    background-color: #95C11E;
+    width: 49%;
+    height: 331px;
+    text-align: center;
+    border: 3px solid #D9D9D9;
+    float: left;
+}
+
+.piclong {
+    width: 50%;
+    height: 670px;
+    border: 1px solid #D9D9D9;
+    float: right;
+}
+
+.picshort {
+    width: 49%;
+    height: 331px;
+    border: 3px solid #D9D9D9;
+}
+
+.divnois {
+    display: flex;
+}
+
+.divnoi1 {
+    width: 51%;
+}
+
+.lpic {
+    width: 381px;
+    height: 359px;
+    float: left;
+    border: 1px solid #D9D9D9;
+}
+
+.rpic {
+    width: 382px;
+    height: 359px;
+    float: right;
+    border: 1px solid #D9D9D9;
+}
+
+.gt1 {
+    font-family: "Gothic A1", sans-serif;
+    margin-top: 80px;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.26px;
+}
+
+.gt2 {
+    font-family: "Gothic A1", sans-serif;
+    width: 246px;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.75px;
+}
+
+.dipn {
+    background-color: #093891;
+    height: 310px;
+    clear: both;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.bt1 {
+    font-family: "Gothic A1", sans-serif;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 37.5px;
+    margin-top: 80px;
+}
+
+.bt2 {
+    font-family: "Gothic A1", sans-serif;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: center;
+    width: 384px;
+    height: 76;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+.dtxt4 {
+    margin: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.divline4 {
+    background-color: #95C11E;
+    width: 85px;
+    height: 0px;
+    border: 3px solid #95C11E;
+    border-radius: 3px;
+}
+
+.dtxt44 {
+    font-family: "Libre Baskerville", serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: center;
+    color: #093891;
+}
+
+.hline {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 37.5px;
+    text-align: center;
+}
+
+.hindiw {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hindiwp1 {
+    height: 79px;
+    width: 349px;
+    margin-top: 100px;
+}
+
+.hindiwp2 {
+    height: 230px;
+    width: 349px;
+}
+
+.hindiwp3 {
+    height: 133px;
+    width: 349px;
+    margin-top: 80px;
+}
+
+.hindiwt1 {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 31.25px;
+    text-align: center;
+    margin-top: 52px;
+}
+
+.hindiwt2 {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 31.25px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.hindiwt3 {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 31.25px;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.sline {
+    height: 210px;
+    width: 0px;
+    background-color: #95C11E;
+    border: 2px solid #95C11E;
+    margin-top: 60px;
+}
+
+.btnld {
+    width: 221px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.btnl {
+    border: 3px solid #95C11E;
+    color: #95C11E;
+    width: 221px;
+    height: 66px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.demail {
+    background-color: #95C11E;
+    height: 127px;
+    margin-top: 100px;
+}
+
+.emaili {
+    height: 59px;
+    width: 997px;
+    color: #FFFFFF;
+    background-color: #95C11E;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 30px 240px;
+    padding-left: 20px;
+}
+
+.emails {
+    height: 59px;
+    background-color: #FFFFFF;
+    width: 129px;
+    border: 2px solid white;
+    border-radius: 5px;
+    position: absolute;
+    top: 4244px;
+    right: 250px;
+}
+
+.emailsm {
+    margin: 13px 36px;
+}
+
+.lastlogo {
+    height: 136px;
+    width: 331px;
+    margin-left: 57px;
+    margin-top: 57px;
+}
+
+.logotxt {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-align: left;
+    width: 437px;
+    margin-left: 57px;
+}
+
+.dlast {
+    display: flex;
+}
+
+.dlast1 {
+    width: 40%;
+}
+
+.dlast2 {
+    width: 60%;
+    display: flex;
+}
+
+.dlast21 {
+    width: 36%;
+    margin-bottom: 100px;
+}
+
+.dlast22 {
+    width: 28%;
+}
+
+.dlast23 {
+    width: 36%;
+}
+
+.lasth {
+    font-family: "Gothic A1", sans-serif;
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 31.25px;
+    text-align: left;
+}
+
+.lastli {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: left;
+}
+
+.lastlined {
+    height: 150px;
+    width: 250px;
+    position: absolute;
+    top: 4600px;
+    right: 90px;
+}
+
+.lastline {
+    font-family: "Gothic A1", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 31.25px;
+    text-align: left;
+
+}
+
+.sociallast {
+    height: 27px;
+    width: 27px;
+    display: flex;
+    gap: 40px;
+}
+
+.forgottxt1{
+    width:236px;height:54px;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.15px;
+    text-align: left;
+    position: absolute;
+     top:3140px; right:415px;
+     color:#FFFFFF;
+}
+.forgottxt2{
+    width:236px;height:54px;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.15px;
+    text-align: left;
+    position: absolute;
+     top:3140px; right:40px;
+     color:#FFFFFF;
+}
+.forgottxt3{
+    width:236px;height:54px;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.15px;
+    text-align: left;
+    position: absolute;
+     top:3450px; left:486px;
+     color:#FFFFFF;
+}
+.forgottxt4{
+    width:236px;height:54px;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.15px;
+    text-align: left;
+     position: absolute;
+     top:3450px; left:120px;
+     color: #FFFFFF;
+}
